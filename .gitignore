@@ -1,0 +1,22 @@
+# Maven build output
+/target/
+
+# Compiled Java classes
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archive packages
+*.zip
+
+# Maven wrapper directories
+.mvn/
